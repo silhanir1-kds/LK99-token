@@ -1,0 +1,14 @@
+{
+  "name": "LK99 Token List",
+  "logoURI": "https://raw.githubusercontent.com/silhanir1-kds/LK99-token/main/aLK99.png",
+  "tokens": [
+    {
+      "chainId": 480,
+      "address": "0x65cCB3F654b42c1c06A79a4C626FddaE6e7809F4",
+      "name": "LK99",
+      "symbol": "LK99",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/silhanir1-kds/LK99-token/main/aLK99.png"
+    }
+  ]
+}
